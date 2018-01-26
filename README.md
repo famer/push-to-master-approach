@@ -1,1 +1,3 @@
-# push-to-master-approach
+# push-to-master-approach  
+
+Description of approach of pushing to master branch of central repository
